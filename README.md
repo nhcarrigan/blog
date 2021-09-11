@@ -1,12 +1,26 @@
-# Project Name
+# My Blog!
 
-Project Description
+Maybe I'll actually do something with it this time...
 
 ## Live Version
 
-This page is not yet deployed.
+This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/blog)
 
-<!--This page is currently deployed. [View the live website.]()-->
+## Creating a Post
+
+Add a new file in the `_posts` directory with the name `YYYY-MM-DD-title.markdown`.
+
+Add the frontmatter:
+
+```md
+---
+layout: post
+title: "My Post"
+date: "2018-01-01"
+---
+```
+
+Write stuff!
 
 ## Feedback and Bugs
 
