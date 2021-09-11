@@ -22,6 +22,14 @@ date: "2018-01-01"
 
 Write stuff!
 
+## Running Locally
+
+Assuming you have `ruby` and `bundle` installed, run the site with:
+
+```bash
+bundle exec jekyll serve
+```
+
 ## Feedback and Bugs
 
 If you have feedback or a bug report, please feel free to open a GitHub issue!
